@@ -1,7 +1,6 @@
 lockfileVersion: 5.3
 
 specifiers:
-  '@egoist/prettier-config': ^0.1.0
   '@sucrase/jest-plugin': ^2.2.0
   '@types/jest': ^27.0.2
   jest: ^27.3.1
@@ -10,7 +9,6 @@ specifiers:
   typescript: ^4.4.4
 
 devDependencies:
-  '@egoist/prettier-config': 0.1.0
   '@sucrase/jest-plugin': 2.2.0
   '@types/jest': 27.0.2
   jest: 27.3.1
@@ -338,10 +336,6 @@ packages:
 
   /@bcoe/v8-coverage/0.2.3:
     resolution: {integrity: sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==}
-    dev: true
-
-  /@egoist/prettier-config/0.1.0:
-    resolution: {integrity: sha512-BYeixvJcTY/jOgawCgFOBxYBPP0e1WQPiyZw98BsUEjSI5SbdAguRKodqcyT50wie+HGk1EuhGUzC3lfrKL4Vg==}
     dev: true
 
   /@istanbuljs/load-nyc-config/1.1.0:

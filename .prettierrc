@@ -1,1 +1,7 @@
-"@egoist/prettier-config"
+{
+  "printWidth": 80,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "proseWrap": "never",
+  "semi": false
+}

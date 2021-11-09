@@ -22,7 +22,6 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@egoist/prettier-config": "^0.1.0",
     "@sucrase/jest-plugin": "^2.2.0",
     "@types/jest": "^27.0.2",
     "jest": "^27.3.1",
